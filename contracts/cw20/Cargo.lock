@@ -461,7 +461,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "68783febc7782c6c5cb401fbda4de5a9898be1762314da0bb2c10ced61f18b0c"
 
 [[package]]
-name = "my"
+name = "mycw20"
 version = "0.16.0"
 dependencies = [
  "cosmwasm-schema",

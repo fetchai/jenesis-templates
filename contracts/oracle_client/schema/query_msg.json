@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "QueryMsg",
+  "anyOf": [
+    {
+      "type": "object",
+      "required": [
+        "oracle_contract"
+      ],
+      "properties": {
+        "oracle_contract": {
+          "type": "object"
+        }
+      },
+      "additionalProperties": false
+    },
+    {
+      "type": "object",
+      "required": [
+        "oracle_value"
+      ],
+      "properties": {
+        "oracle_value": {
+          "type": "object"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
+}

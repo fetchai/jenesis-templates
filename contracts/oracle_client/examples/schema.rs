@@ -3,8 +3,8 @@ use std::fs::create_dir_all;
 
 use cosmwasm_schema::{export_schema, remove_schemas, schema_for};
 
-use oracle_client::msg::{ExecuteMsg, InstantiateMsg, QueryMsg};
-use oracle_client::state::State;
+use <<NAME>>::msg::{ExecuteMsg, InstantiateMsg, QueryMsg};
+use <<NAME>>::state::State;
 
 fn main() {
     let mut out_dir = current_dir().unwrap();

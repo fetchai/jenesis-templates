@@ -1,5 +1,5 @@
 [package]
-name = "oracle"
+name = "<<NAME>>"
 version = "0.1.0"
 authors = ["<james.riehl@fetch.ai>"]
 edition = "2018"

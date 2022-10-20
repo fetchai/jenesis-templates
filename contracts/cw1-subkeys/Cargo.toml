@@ -1,5 +1,5 @@
 [package]
-name = "<<NAME>>"
+name = "<<NAME>>" # originally "cw1-subkeys"
 version = "0.15.1"
 authors = ["Ethan Frey <ethanfrey@users.noreply.github.com>"]
 edition = "2018"

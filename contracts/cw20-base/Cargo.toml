@@ -1,5 +1,5 @@
 [package]
-name = "<<NAME>>" # originally cw20-base
+name = "<<NAME>>" # originally "cw20-base"
 version = "0.16.0"
 authors = ["Ethan Frey <ethanfrey@users.noreply.github.com>"]
 edition = "2018"
